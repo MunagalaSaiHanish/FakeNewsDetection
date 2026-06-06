@@ -16,15 +16,15 @@ The project was developed to address the growing challenge of misinformation by 
 
 # 🎯 Key Highlights
 
-- ✅ Built an end-to-end NLP classification pipeline
-- ✅ Implemented and compared multiple Machine Learning algorithms
-- ✅ Developed an Ensemble Voting Classifier
-- ✅ Achieved **84.77% Accuracy** using Support Vector Machine (Best Model)
-- ✅ Performed Hyperparameter Tuning using Grid Search
-- ✅ Applied Cross Validation for robust model evaluation
-- ✅ Built an interactive Streamlit Web Application
-- ✅ Added Explainable AI features for prediction interpretation
-- ✅ Enabled Batch Prediction using CSV uploads
+-  Built an end-to-end NLP classification pipeline
+-  Implemented and compared multiple Machine Learning algorithms
+-  Developed an Ensemble Voting Classifier
+-  Achieved **84.77% Accuracy** using Support Vector Machine (Best Model)
+-  Performed Hyperparameter Tuning using Grid Search
+-  Applied Cross Validation for robust model evaluation
+-  Built an interactive Streamlit Web Application
+-  Added Explainable AI features for prediction interpretation
+-  Enabled Batch Prediction using CSV uploads
 
 ---
 
