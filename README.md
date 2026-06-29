@@ -307,26 +307,6 @@ The system automatically:
 
 ---
 
-# 📸 Screenshots
-
-### Dashboard
-
-_Add dashboard screenshot here_
-
-### Model Training & Evaluation
-
-_Add model comparison screenshot here_
-
-### Prediction Results
-
-_Add article classification screenshot here_
-
-### Explainable AI Features
-
-_Add feature importance and article explanation screenshot here_
-
----
-
 # 🔮 Future Enhancements
 
 - BERT-Based Fake News Detection
